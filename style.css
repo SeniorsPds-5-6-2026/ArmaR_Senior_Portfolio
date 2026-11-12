@@ -26,7 +26,7 @@ body {
    NAVBAR
 ========================= */
 .navbar {
-  background-color: rgb(116, 144, 163);
+  background-color: rgb(84, 102, 115);
   padding: 1em 2em;
   display: flex;
   justify-content: space-between;
